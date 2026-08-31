@@ -1,2 +1,10 @@
 # sweng861-crud-avb6962
-this repository will be reused for all coding work in the software construction course
+
+## Overview
+This repository is used for coding work completed in the Software Construction course.
+
+## Author
+Aidan Bracken
+
+## Purpose
+Bitcoin Tax Planning CRUD App
